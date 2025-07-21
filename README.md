@@ -1,4 +1,4 @@
-Snake and Ladder Game – DSA Project 
+## Snake and Ladder Game – DSA Project 
 ## Overview 
 This is a terminal-based Snake and Ladder game implemented in the C 
 programming language as part of a **Data Structures and Algorithms (DSA)** 
