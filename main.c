@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "d.h"  // Updated header file name for consistency
+#include "game_logic.h"  // Updated header file name for consistency
 
 int main() {
     // Create the head of the board and initialize the game board

@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "d.h"  // Include the header file containing definitions and prototypes
+#include "game_logic.h"  // Include the header file containing definitions and prototypes
 
 // Global variables
 bool gameOver = false;  // Tracks if the game is over
